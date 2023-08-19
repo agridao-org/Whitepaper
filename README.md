@@ -1,2 +1,5 @@
 # Whitepaper
 This Whitepaper is under construction by AgriDAO and CoreDAO Governance
+
+# Abstract
+This article explores the use of decentralized autonomous organization (DAO) and Turingcomplete blockchain technology in agriculture. By decentralizing agricultural systems and leveraging blockchain principles of security, transparency, and accountability, stakeholders can actively manage the value chain analysis and supply chain management. This enables optimization of agricultural processes, traceability, efficiency, and cost reduction. AgriDAO, operating on web 3.0, creates a secure and transparent ecosystem for informed decisionmaking and contributions to agricultural development. The ecosystem includes distributed ledgers, smart contracts, tokens, governance, decentralized applications (DApps), and community participation. The integration of DAO and Turing-complete blockchain technology holds potential for sustainable agricultural practices and food security, requiring collaboration and collective efforts.
